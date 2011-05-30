@@ -10,5 +10,5 @@ All samples were run under nodejs.
 
 Filelist
 --------
-arguments.js    - take variable argument count from function parameters
-substitution.js - trick, widely used in jQuery plugins making
+  * arguments.js    - take variable argument count from function parameters
+  * substitution.js - trick, widely used in jQuery plugins making
